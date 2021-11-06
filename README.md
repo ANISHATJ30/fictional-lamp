@@ -1,4 +1,4 @@
-Problem statement 
+Problem statement -
 Develop a program in Java(urldatabase) that can be run in the command line as per given requirements
 below. 
 Requirements 
